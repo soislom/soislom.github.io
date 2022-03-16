@@ -5,4 +5,4 @@ t
 
 update
 
-[Index](https://github.com/soislom/soislom.github.io/edit/main/index.md)。
+[Index](https://github.com/soislom/soislom.github.io/edit/main/Home.md)。
