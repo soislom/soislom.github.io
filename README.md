@@ -5,4 +5,4 @@ t
 
 update
 
-[跳转百度](https://baidu.com)。
+[Index](https://github.com/soislom/soislom.github.io/edit/main/index.md)。
